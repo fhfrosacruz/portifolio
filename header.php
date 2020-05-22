@@ -47,7 +47,7 @@
       </li>
       
       <li class="nav-item" style="text-align: center">
-        <a class="nav-link">contato</a>
+        <a class="nav-link">Contato</a>
       </li>
     </ul>    
     </nav>
